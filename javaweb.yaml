@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: javawebapppod
-    image: 9182709223/javawebapp:3
+    image: 9182709223/java-web-app:2
     ports:
     - containerPort: 8080
 
